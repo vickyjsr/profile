@@ -26,16 +26,12 @@ body{
     background: linear-gradient(to bottom right, #fdfdfd, #bbd9db);
     box-shadow: 0 13px 26px rgba(0, 0, 0, 0.2), 0 3px 6px rgba(0, 0, 0, 0.2);
 }
-.imgs img{
-    width: 120px;
-    height: 120px;
-}
-.thumbnail{
+
+.imgs .thumbnail{
     align-items: center;
-    width: 154px;
-    height: 154px;
     border-radius: 100%;
     display: flex;
+    padding: 5%;
     margin-left: auto;
     margin-right: auto;
     margin-top: 1.2em;
